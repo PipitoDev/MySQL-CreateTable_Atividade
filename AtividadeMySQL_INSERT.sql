@@ -1,3 +1,7 @@
+/* As informações da atividade foram criadas pela IA do Google, Gemini.
+Servem apenas com o propósito de ter informações para testar e usar o sistema criado.
+Nenhum código além foi copiado. */
+
 USE SIS04T25;
 
 -- Inserindo Employees
