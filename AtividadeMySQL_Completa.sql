@@ -223,13 +223,3 @@ SELECT OrderDetailID AS 'ID do Detalhe do Pedido',
 	   Quantity AS 'Quantidade do Pedido',
        Order_id AS 'ID do Pedido'
 FROM OrderDetails;
-
-DROP DATABASE SIS04T25;
-
-
-
-
-
-
-
-
